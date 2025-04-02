@@ -1,11 +1,11 @@
 Manifest-Version: 1.0
 
-Name: global.min.js
+Name: global.js
 Digest-Algorithms: SHA1 SHA256
 SHA1-Digest: 0v75CZ+X2UdtjhGxnfdhyhrBcdM=
 SHA256-Digest: NU7BF62aaxCkzOwpV0VKIYe7U93FQoQDsYVcLobue6o=
 
-Name: injected.min.js
+Name: injected.js
 Digest-Algorithms: SHA1 SHA256
 SHA1-Digest: ewx/ZEYxz76ixmcWfNFqikV+bMo=
 SHA256-Digest: sOVH7xiGTnNs0PtgGHDG+GNIsXpd0uVI1zcP9RsZnok=
